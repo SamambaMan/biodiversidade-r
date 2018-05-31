@@ -20,7 +20,8 @@ $ sudo gdebi shiny-server-1.5.7.907-amd64.deb
     "raster",
     "formattable",
     "shinyjs",
-    "rgdal")
+    "rgdal",
+    "DiversitySampler")
  )
 > 
 ```

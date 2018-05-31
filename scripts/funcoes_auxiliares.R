@@ -1,4 +1,4 @@
-
+library(purrr) 
 printf = function(...) cat(sprintf(...))
 
 newConnection = function() {
